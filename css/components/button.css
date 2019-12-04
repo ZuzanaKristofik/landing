@@ -1,0 +1,16 @@
+.btn-green {
+	background-color: #d9c38b;
+	color:white;
+	font-family: 'Roboto Slab', serif;
+	padding: 8px 20px;
+	border-radius:4px;
+		}
+
+.btn-green:hover {
+	background-color: #d9c38b;
+	color:black;
+	}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+	}

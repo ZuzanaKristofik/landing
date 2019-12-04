@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Roboto+Slab&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+body {
+font-family: 'Bebas Neue', cursive; 
+font-size: 18px 
+}
+
+h1,h2,h3 {
+font-family: 'Roboto Slab', serif;
+font-size: 16px 
+font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
